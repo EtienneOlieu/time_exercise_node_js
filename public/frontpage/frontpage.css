@@ -1,0 +1,19 @@
+body {
+    background-color:steelblue;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+h4 {
+    position: center;
+}
+
+#description {
+    font-family: Arial, Helvetica, sans-serif;
+}
